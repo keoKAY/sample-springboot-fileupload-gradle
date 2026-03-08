@@ -1,9 +1,9 @@
 spring:
     application:
         name: filestorageservice
-springdoc: 
-    swagger-ui: 
-        path: / 
+# springdoc: 
+#     swagger-ui: 
+#         path: / 
     # api-docs: 
     #     path: /v3/api-docs
 server:
