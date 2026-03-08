@@ -1,6 +1,6 @@
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master123" ]
 
 env:
   NEXUS_REGISTRY: registry-new.devnerd.store # nexus repo for storing docker image 
